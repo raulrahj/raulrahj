@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Raj</h1>
 <h3 align="center">A passionate Flutter developer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+>
 - 🔭 I’m currently working on [Cinephile App](https://github.com/raulrahj/Cinephile-Movie-Community.git)
 
 - 🌱 I’m currently learning **Flutter, NodeJS**
