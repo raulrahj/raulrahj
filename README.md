@@ -28,6 +28,3 @@
 [![](https://komarev.com/ghpvc/?username=raulrahj&style=flat&color=blue)](https://github.com/raulrahj)
 
 <br>
-<a href="https://github.com/raulrahj">
-  <img src="https://raw.githubusercontent.com/raulrahj/raulrahj/master/generated/overview.svg#gh-dark-mode-only" /><img src="https://raw.githubusercontent.com/raulrahj/raulrahj/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
