@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/raulrahj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raulrahj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raulrahj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raulrahj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahul-raj-5a9558218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raulrahj" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/rahul-rohini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rahul-rohini" height="30" width="40" /></a>
 <a href="https://medium.com/@meraulhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@meraulhere" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/raulrahj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="raulrahj" height="30" width="40" /></a>
