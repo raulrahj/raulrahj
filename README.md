@@ -1,4 +1,5 @@
-
+ <img align="center" width="100" src="https://acegif.com/wp-content/gif/thinking-emoji-30.gif" />
+ 
 <h1 align="center">Hi 👋, I'm Rahulraj</h1>
 <h3 align="center">A passionate Flutter Developer</h3>
 
