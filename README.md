@@ -23,8 +23,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raulrahj&show_icons=true&locale=en&layout=compact" alt="raulrahj" /></p>
 
-## Developer stats
-&nbsp;[![](https://img.shields.io/github/followers/raulrahj?style=flat&color=blue&label=Followers&logo=github)](https://github.com/raulrahj)
-[![](https://komarev.com/ghpvc/?username=raulrahj&style=flat&color=blue)](https://github.com/raulrahj)
-
 <br>
