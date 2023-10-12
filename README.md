@@ -24,10 +24,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raulrahj&show_icons=true&locale=en&layout=compact" alt="raulrahj" /></p>
 
 ## Developer stats
-&nbsp;[![](https://img.shields.io/github/followers/TiagoRG?style=flat&color=blue&label=Followers&logo=github)](https://github.com/raulrahj)
-[![](https://komarev.com/ghpvc/?username=TiagoRG&style=flat&color=blue)](https://github.com/raulrahj)
+&nbsp;[![](https://img.shields.io/github/followers/raulrahj?style=flat&color=blue&label=Followers&logo=github)](https://github.com/raulrahj)
+[![](https://komarev.com/ghpvc/?username=raulrahj&style=flat&color=blue)](https://github.com/raulrahj)
 [![wakatime](https://wakatime.com/badge/user/a92708f1-dfb3-4dcf-823a-229445dc4289.svg)](https://wakatime.com/@a92708f1-dfb3-4dcf-823a-229445dc4289)
 <br>
 <a href="https://github.com/raulrahj">
-  <img src="https://raw.githubusercontent.com/TiagoRG/TiagoRG/master/generated/overview.svg#gh-dark-mode-only" /><img src="https://raw.githubusercontent.com/TiagoRG/TiagoRG/master/generated/languages.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/raulrahj/raulrahj/master/generated/overview.svg#gh-dark-mode-only" /><img src="https://raw.githubusercontent.com/raulrahj/raulrahj/master/generated/languages.svg#gh-dark-mode-only" />
 </a>
